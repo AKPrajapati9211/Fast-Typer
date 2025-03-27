@@ -2,7 +2,7 @@
 
 A Java-based typing game that tests and improves your typing speed and accuracy through multiple difficulty levels.
 
-![Game Screenshot](screenshot.png) *(Consider adding a screenshot later)*
+![Game Screenshot](screenshots/screenshot(155).png) *(Consider adding a screenshot later)*
 
 ## Features
 
@@ -33,19 +33,18 @@ A Java-based typing game that tests and improves your typing speed and accuracy 
 
 - Java 8 or higher
 - Text files containing words for each level in `/Words/` directory
-- Icon files in `/Icons/` directory (optional)
+- Icon files in `/Icons/` directory
 
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/typing-game.git
+   
 2. Compile the Java files:
 
   ```bash
-  javac Typer.java
-
+     javac Typer.java
 3. Run the application:
-
 ```bash
 java Typer
