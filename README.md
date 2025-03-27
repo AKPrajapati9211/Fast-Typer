@@ -41,7 +41,7 @@ A Java-based typing game that tests and improves your typing speed and accuracy 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/typing-game.git
+   git clone https://github.com/AKPrajapati9211/Fast-Typer.git
    
 2. Compile the Java files:
     ```bash
