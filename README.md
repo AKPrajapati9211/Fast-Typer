@@ -2,7 +2,7 @@
 
 A Java-based typing game that tests and improves your typing speed and accuracy through multiple difficulty levels.
 
-![Game Screenshot](screenshots/Screenshot (155).png)
+![Game Screenshot](screenshots/screenshot1.png)
 
 ## Features
 
